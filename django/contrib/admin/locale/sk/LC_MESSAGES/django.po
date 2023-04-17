@@ -9,12 +9,13 @@
 # Peter Kuma, 2021
 # Peter Stríž <petulak8@gmail.com>, 2020
 # Zbynek Drlik <drlik.zbynek@gmail.com>, 2019
+# Miroslav Bendík <miroslav.bendik@gmail.com>, 2023
 msgid ""
 msgstr ""
 "Project-Id-Version: django\n"
 "Report-Msgid-Bugs-To: \n"
 "POT-Creation-Date: 2021-09-21 10:22+0200\n"
-"PO-Revision-Date: 2021-09-22 07:21+0000\n"
+"PO-Revision-Date: 2023-04-17 10:10+0200\n"
 "Last-Translator: Transifex Bot <>\n"
 "Language-Team: Slovak (http://www.transifex.com/django/django/language/sk/)\n"
 "MIME-Version: 1.0\n"
@@ -539,10 +540,10 @@ msgid "Toggle navigation"
 msgstr "Zameniť navigáciu"
 
 msgid "Start typing to filter…"
-msgstr ""
+msgstr "Filtrovať začnete písaním textu…"
 
 msgid "Filter navigation items"
-msgstr ""
+msgstr "Filtrovať položky navigácie"
 
 msgid "Date/time"
 msgstr "Dátum a čas"
@@ -613,6 +614,7 @@ msgstr "Zmazať vybrané %(model)s"
 
 msgid "Thanks for spending some quality time with the web site today."
 msgstr ""
+"Ďakujeme, že ste dnes strávili pár pekných okamihov na tejto webovej stránke."
 
 msgid "Log in again"
 msgstr "Znova sa prihlásiť"
